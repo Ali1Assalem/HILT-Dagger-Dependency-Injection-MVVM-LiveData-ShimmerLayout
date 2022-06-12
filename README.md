@@ -3,7 +3,6 @@ Rick&amp;Morty API MVVM-ViewModel
  * ViewModel
  * LiveData
  * Hilt (for dependency injection)
- * Kotlin Coroutines
  * Retrofit
  * ShimmerLayout
  * Animation
